@@ -1,4 +1,4 @@
-<h1>Descrição do Projeto<h1>
+<h1>Descrição do Projeto</h1>
   Projeto avaliativo Orientado a Objeto seguindo orientações do Professor Orlando Saraiva Jr.
   
   link de referencia:
